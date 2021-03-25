@@ -2,7 +2,7 @@
 
 I'm currently pursuing my BSc in Artificial Intelligence (AI) at Johannes Kepler University in Austria while working on a project that implements AI to help tackle mental health disorders especially targeted towards Gen Z and Gen Alpha.
 
-Do you want to come up with creative long-term solutions for humanity? If yes, you're not alone - personally, I started working towards this goal by studying the brain i.r.t. human behaviors and cognitive processes. This fuels my passion to constantly improve my knowledge in these three exciting fields: <b>neuromarketing, neuroscience,</b> and <b>AI.</b>
+Do you want to come up with creative long-term solutions for humanity? If yes, you're not alone - personally, I started working towards this goal by studying the brain i.r.t. human behavior and cognitive processes. This fuels my passion to constantly improve my knowledge in these three exciting fields: <b>neuromarketing, neuroscience,</b> and <b>AI.</b>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=556299)
