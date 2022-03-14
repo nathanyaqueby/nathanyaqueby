@@ -5,8 +5,8 @@ My name's Queby (she/her) and I'm pursuing my BSc in Artificial Intelligence (AI
 
 I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NLP Division and a member of their Research & Development Team working on AI for Education. Another organization I'm lucky to participate in is [Women in AI & Robotics Germany](https://womeninairobotics.de/)
 
-#### Current project:
-<img align="left" src="https://github.com/nathanyaqueby/nathanyaqueby/blob/main/esai.app.png" width=100> [esAI.app](https://www.esai.app/): an AI-based digital writing assistant with automatic spelling and grammar checker for Bahasa Indonesia (practically Grammarly for Indonesian) with [Kevin Ahmad Faisal](https://www.linkedin.com/in/kevinahmad) & [Andika Ridho Ramadani](https://www.linkedin.com/in/andikaridhoramadani)
+#### Current project: <img align="right" src="https://github.com/nathanyaqueby/nathanyaqueby/blob/main/esai.app.png" width=250>
+[esAI.app](https://www.esai.app/): an AI-based digital writing assistant with automatic spelling and grammar checker for Bahasa Indonesia (practically Grammarly for Indonesian) with [Kevin Ahmad Faisal](https://www.linkedin.com/in/kevinahmad) & [Andika Ridho Ramadani](https://www.linkedin.com/in/andikaridhoramadani)
 
 #### Latest content writing works:
 - [The Big Crunch](https://www.instagram.com/p/CXlNxOalPSl/?utm_source=ig_web_copy_link)
@@ -17,10 +17,8 @@ I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NL
 #### Latest graphic design works:
 - [Gamification](https://www.instagram.com/p/CZUC5X_vVPx/?utm_source=ig_web_copy_link)
 - [Cognitive Biases](https://www.instagram.com/p/CaHJdlgvqOU/?utm_source=ig_web_copy_link)
-- [A Compendium on Double Olympic Gold Medalist Yuzuru Hanyu's Thesis](https://www.instagram.com/p/CaeX-WfPj8Z/?utm_source=ig_web_copy_link)
 - [Covid-19 Conspiracies](https://www.instagram.com/p/Ca1_iGiPFFL/?utm_source=ig_web_copy_link)
 - [The Rings of Saturn & The Ring Rain Phenomenon](https://issuu.com/youthinstem/docs/issue_02_-_futuristic_discoveries)
-- [A Smarter World: Artificial Intelligence](https://issuu.com/youthinstem/docs/issue_02_-_futuristic_discoveries)
 - [Bacteriophages](https://issuu.com/youthinstem/docs/issue_3_-_revival_of_a_green_kingdom)
 
 ## 🔧 Technologies & Tools
