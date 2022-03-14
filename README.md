@@ -6,7 +6,7 @@ My name's Queby (she/her) and I'm pursuing my BSc in Artificial Intelligence (AI
 I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NLP Division and a member of their Research & Development Team working on AI for Education. Another organization I'm lucky to participate in is [Women in AI & Robotics Germany](https://womeninairobotics.de/)
 
 #### Current project:
-[esAI.app](https://www.esai.app/): a digital writing assisstant with automatic spelling and grammar checker for Bahasa Indonesia (practically Grammarly for Indonesian) with [Kevin Ahmad Faisal](https://www.linkedin.com/in/kevinahmad) & [Andika Ridho Ramadani](https://www.linkedin.com/in/andikaridhoramadani)
+<img align="left" src="https://github.com/nathanyaqueby/nathanyaqueby/blob/main/esai.app.png" width=100> [esAI.app](https://www.esai.app/): an AI-based digital writing assistant with automatic spelling and grammar checker for Bahasa Indonesia (practically Grammarly for Indonesian) with [Kevin Ahmad Faisal](https://www.linkedin.com/in/kevinahmad) & [Andika Ridho Ramadani](https://www.linkedin.com/in/andikaridhoramadani)
 
 #### Latest content writing works:
 - [The Big Crunch](https://www.instagram.com/p/CXlNxOalPSl/?utm_source=ig_web_copy_link)
