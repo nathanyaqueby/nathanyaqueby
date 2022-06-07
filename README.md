@@ -1,7 +1,7 @@
-# Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30px">
+# Hi there! 👋
 My name's Queby (she/her) and I'm pursuing my BSc in Artificial Intelligence (AI) at [Johannes Kepler University](jku.at) in Linz, Austria.
 
-Currently working as a Data Science Intern at [Sekolah.mu](https://www.sekolah.mu/) and Unsupervised Learning Intern at [IARAI](http://iarai.ac.at/).
+Currently working as an Unsupervised Learning Intern at [IARAI](http://iarai.ac.at/).
 
 I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NLP Division and a member of their Research & Development Team working on AI for Education. Another organization I'm lucky to participate in is [Women in AI & Robotics Germany](https://womeninairobotics.de/)
 
@@ -9,12 +9,15 @@ I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NL
 [esAI.app](https://www.esai.app/): an AI-based digital writing assistant with automatic spelling and grammar checker for Bahasa Indonesia (practically Grammarly for Indonesian) with [Kevin Ahmad Faisal](https://www.linkedin.com/in/kevinahmad) & [Andika Ridho Ramadani](https://www.linkedin.com/in/andikaridhoramadani)
 
 ### 📜 Latest content writing works:
+- [Computer Vision](https://www.instagram.com/p/CdnikZTPnQP/)
+- [Neural Networks](https://www.instagram.com/p/CdSpgXtPe-H/)
 - [The Big Crunch](https://www.instagram.com/p/CXlNxOalPSl/?utm_source=ig_web_copy_link)
 - [A Smarter World: Artificial Intelligence](https://issuu.com/youthinstem/docs/issue_02_-_futuristic_discoveries)
 - [Parallels between Frankenstein and AI](https://www.womeninairobotics.de/post/parallels-between-frankenstein-and-ai): The Modern Prometheus / What Mary Shelley’s Fiction Can Tell Us About AI
 - [Tale of the First Humanoid Robot](https://www.womeninairobotics.de/post/tale-of-the-first-humanoid-robot)
 
 ### 🖼 Latest graphic design works:
+- [Neural Networks](https://www.instagram.com/p/CdSpgXtPe-H/)
 - [Gamification](https://www.instagram.com/p/CZUC5X_vVPx/?utm_source=ig_web_copy_link)
 - [Cognitive Biases](https://www.instagram.com/p/CaHJdlgvqOU/?utm_source=ig_web_copy_link)
 - [Covid-19 Conspiracies](https://www.instagram.com/p/Ca1_iGiPFFL/?utm_source=ig_web_copy_link)
