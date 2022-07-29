@@ -1,7 +1,7 @@
 # Hi there! 👋
 My name's Queby (she/her) and I'm pursuing my BSc in Artificial Intelligence (AI) at [Johannes Kepler University](jku.at) in Linz, Austria.
 
-Currently working as an Unsupervised Learning Intern at [IARAI](http://iarai.ac.at/).
+Currently working as an Unsupervised Learning Intern at [IARAI](http://iarai.ac.at/) and Student Assistant at the Institute for Machine Learning at [LIT AI Lab](https://www.jku.at/en/lit-artificial-intelligence-lab/)
 
 I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NLP Division and a member of their Research & Development Team working on AI for Education. Another organization I'm lucky to participate in is [Women in AI & Robotics Germany](https://womeninairobotics.de/)
 
