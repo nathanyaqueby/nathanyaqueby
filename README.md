@@ -9,6 +9,7 @@ I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NL
 [esAI.app](https://www.esai.app/): an AI-based digital writing assistant with automatic spelling and grammar checker for Bahasa Indonesia (practically Grammarly for Indonesian) with [Kevin Ahmad Faisal](https://www.linkedin.com/in/kevinahmad) & [Andika Ridho Ramadani](https://www.linkedin.com/in/andikaridhoramadani)
 
 ### 📜 Latest content writing works:
+- [Where AI and Neuroscience Converge](https://www.womeninairobotics.de/post/where-ai-and-neuroscience-converge)
 - [Computer Vision](https://www.instagram.com/p/CdnikZTPnQP/)
 - [Neural Networks](https://www.instagram.com/p/CdSpgXtPe-H/)
 - [The Big Crunch](https://www.instagram.com/p/CXlNxOalPSl/?utm_source=ig_web_copy_link)
