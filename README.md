@@ -52,5 +52,4 @@ If - for whatever strange reason - you ever want to talk to me, just use the fol
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nathanyaqueby)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/queby/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/nathanyaqueby/)
-[![Facebook](https://img.shields.io/badge/-Facebook-darkblue?style=flat&labelColor=darkblue&logo=facebook&logoColor=white)](https://www.facebook.com/nathanyaqueby.satriani.1/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nathanyaqueby21@gmail.com@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nathanyaqueby21@gmail.com)
