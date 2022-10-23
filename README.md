@@ -18,7 +18,7 @@ I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NL
 - [Tale of the First Humanoid Robot](https://www.womeninairobotics.de/post/tale-of-the-first-humanoid-robot)
 
 ### 🖼 Latest graphic design works:
-- [Neural Networks](https://www.instagram.com/p/CdSpgXtPe-H/)
+- [Neural Networks](https://www.instagram.com/p/CjdJYcqP4lA/?utm_source=ig_web_copy_link)
 - [Gamification](https://www.instagram.com/p/CZUC5X_vVPx/?utm_source=ig_web_copy_link)
 - [Cognitive Biases](https://www.instagram.com/p/CaHJdlgvqOU/?utm_source=ig_web_copy_link)
 - [Covid-19 Conspiracies](https://www.instagram.com/p/Ca1_iGiPFFL/?utm_source=ig_web_copy_link)
