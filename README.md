@@ -11,7 +11,7 @@ I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NL
 ### 📜 Latest content writing works:
 - [Where AI and Neuroscience Converge](https://www.womeninairobotics.de/post/where-ai-and-neuroscience-converge)
 - [Computer Vision](https://www.instagram.com/p/CdnikZTPnQP/)
-- [Neural Networks](https://www.instagram.com/p/CdSpgXtPe-H/)
+- [Neural Networks](https://www.instagram.com/p/CjdJYcqP4lA/?utm_source=ig_web_copy_link)
 - [The Big Crunch](https://www.instagram.com/p/CXlNxOalPSl/?utm_source=ig_web_copy_link)
 - [A Smarter World: Artificial Intelligence](https://issuu.com/youthinstem/docs/issue_02_-_futuristic_discoveries)
 - [Parallels between Frankenstein and AI](https://www.womeninairobotics.de/post/parallels-between-frankenstein-and-ai): The Modern Prometheus / What Mary Shelley’s Fiction Can Tell Us About AI
