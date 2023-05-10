@@ -1,9 +1,10 @@
 # Hi there! 👋
-My name's Queby (she/her) and I'm pursuing my BSc in Artificial Intelligence (AI) at [Johannes Kepler University](jku.at) in Linz, Austria.
+My name's Queby (she/her) and I'm pursuing my B.Sc. in Artificial Intelligence (AI) at [Johannes Kepler University](jku.at) in Linz, Austria.
 
-Currently working as an Unsupervised Learning Intern at [IARAI](http://iarai.ac.at/) and Student Assistant at the Institute for Machine Learning at [LIT AI Lab](https://www.jku.at/en/lit-artificial-intelligence-lab/)
+Currently working as a Student Assistant at [St. Pölten University of Applied Sciences](https://icmt.fhstp.ac.at/) in the Media Computing group.
+Before, I was also an Unsupervised Learning Intern at [IARAI](http://iarai.ac.at/) and Student Assistant at the Institute for Machine Learning at [LIT AI Lab](https://www.jku.at/en/lit-artificial-intelligence-lab/)
 
-I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NLP Division and a member of their Research & Development Team working on AI for Education. Another organization I'm lucky to participate in is [Women in AI & Robotics Germany](https://womeninairobotics.de/)
+Part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NLP Division and a member of their Research & Development Team working on AI for Education, and core team member at [Women in AI & Robotics Germany](https://womeninairobotics.de/) in addition to [neuron.ai Austria](https://neuron-ai.at/).
 
 ### ⚔ Current project: <img align="right" src="https://github.com/nathanyaqueby/nathanyaqueby/blob/main/esai.app.png" width=250>
 [esAI.app](https://www.esai.app/): an AI-based digital writing assistant with automatic spelling and grammar checker for Bahasa Indonesia (practically Grammarly for Indonesian) with [Kevin Ahmad Faisal](https://www.linkedin.com/in/kevinahmad) & [Andika Ridho Ramadani](https://www.linkedin.com/in/andikaridhoramadani)
@@ -18,6 +19,7 @@ I'm also a part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NL
 - [Tale of the First Humanoid Robot](https://www.womeninairobotics.de/post/tale-of-the-first-humanoid-robot)
 
 ### 🖼 Latest graphic design works:
+- [neuron.ai](https://neuron-ai.at/) ([Instagram](https://www.instagram.com/neuron.ai_austria/), [LinkedIn](https://www.linkedin.com/company/neuron-ai-austria/), [Twitter](https://twitter.com/neuronaiAustria))
 - [Neural Networks](https://www.instagram.com/p/CjdJYcqP4lA/?utm_source=ig_web_copy_link)
 - [Gamification](https://www.instagram.com/p/CZUC5X_vVPx/?utm_source=ig_web_copy_link)
 - [Cognitive Biases](https://www.instagram.com/p/CaHJdlgvqOU/?utm_source=ig_web_copy_link)
