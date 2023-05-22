@@ -48,6 +48,23 @@ Part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NLP Division 
 ![](https://img.shields.io/badge/Web-Wix.com-informational?style=flat&logo=wix&logoColor=white&color=556299)
 ![](https://img.shields.io/badge/Web-Shopify-informational?style=flat&logo=shopify&logoColor=white&color=556299)
 
+<details>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanyaqueby&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanyaqueby&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanyaqueby&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanyaqueby&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
 ## 📫 How to reach me
 If - for whatever strange reason - you ever want to talk to me, just use the following:
 
