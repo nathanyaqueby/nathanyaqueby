@@ -1,7 +1,7 @@
 # Hi there! 👋
 My name's Queby (she/her) and I'm pursuing my B.Sc. in Artificial Intelligence (AI) at [Johannes Kepler University](jku.at) in Linz, Austria.
 
-Currently working as a Student Assistant at [St. Pölten University of Applied Sciences](https://icmt.fhstp.ac.at/) in the Media Computing group.
+Currently working as an AI/ML Developer at [Infineon Technologies](www.infineon.com) and Student Assistant at [St. Pölten University of Applied Sciences](https://icmt.fhstp.ac.at/) in the Media Computing group.
 Before, I was also an Unsupervised Learning Intern at [IARAI](http://iarai.ac.at/) and Student Assistant at the Institute for Machine Learning at [LIT AI Lab](https://www.jku.at/en/lit-artificial-intelligence-lab/)
 
 Part of [Indonesia AI](https://www.aiforindonesia.org/) as Head of NLP Division and a member of their Research & Development Team working on AI for Education, and core team member at [Women in AI & Robotics Germany](https://womeninairobotics.de/) in addition to [neuron.ai Austria](https://neuron-ai.at/).
